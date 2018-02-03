@@ -4,7 +4,7 @@
   "repository": "https://github.com/ellefsen/wordpress-heroku-php",
   "success_url": "/",
   "env": {
-    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php",
+    "BUILDPACK_URL": "https://github.com/manhkt1/wpsakuteam",
     "AWS_ACCESS_KEY_ID": {
       "description": "The Amazon Access Key.",
       "value": "123"
